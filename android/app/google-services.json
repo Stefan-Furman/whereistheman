@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "724584568779",
+    "project_id": "whereistheman18",
+    "storage_bucket": "whereistheman18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724584568779:android:6bec28e7f7d14c58f8484e",
+        "android_client_info": {
+          "package_name": "com.furman.itbulls.whereistheman18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724584568779-4p68hbq59kt8q4812projsfk3pccbi3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFt44gCdBxtpPVCcfUnarbfttqCHQOt0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724584568779-4p68hbq59kt8q4812projsfk3pccbi3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724584568779:android:369ef4ce9c86d925f8484e",
+        "android_client_info": {
+          "package_name": "com.itbulls.furman.whereistheman18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724584568779-4p68hbq59kt8q4812projsfk3pccbi3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFt44gCdBxtpPVCcfUnarbfttqCHQOt0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724584568779-4p68hbq59kt8q4812projsfk3pccbi3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
